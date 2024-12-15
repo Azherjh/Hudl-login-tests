@@ -1,0 +1,7 @@
+
+--require spec_helper
+--format html
+--format AllureRspec
+--out allure-results
+--color
+--default-path spec
